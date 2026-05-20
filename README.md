@@ -93,8 +93,7 @@
 ## Error
 
 -   1x error message does not describe the error
--   1x input has no label
--   2x insufficient clickable space
+-   1x insufficient clickable space
 
 ## Instructions
 
