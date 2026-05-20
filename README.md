@@ -31,10 +31,12 @@
 
 -   1x insufficient color contrast
 -   1x wrong lang value
+-   1x insufficient line height
 
 ## Resize
 
 -   1x site has no headings
+-   1x insufficient line height
 
 ## Text Image
 
@@ -44,6 +46,7 @@
 ## Color Contrast Enhanced
 
 -   1x wrong lang value
+-   1x insufficient line height
 
 ## Spacing
 
@@ -69,6 +72,7 @@
 
 -   1x content needs headers
 -   1x wrong lang attribute
+-   1x insufficient line height
 
 ## Label
 
@@ -81,6 +85,7 @@
 ## Language Part
 
 -   1x wrong lang
+-   1x insufficient line height
 
 ## Input
 
