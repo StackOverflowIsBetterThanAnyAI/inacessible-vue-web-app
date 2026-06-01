@@ -1,4 +1,4 @@
-# inaccessible-vue-web-app
+# Inaccessible-vue-web-app
 
 ## General
 
