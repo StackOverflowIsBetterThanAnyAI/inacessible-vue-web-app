@@ -1,8 +1,5 @@
 {
     "config": {
         "only": ["/name-role-value"]
-    },
-    "globalStorage": null,
-    "urls": [],
-    "generatedAt": "2026-06-01T13:54:36.957Z"
+    }
 }
