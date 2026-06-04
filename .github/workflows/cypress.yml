@@ -12,7 +12,6 @@ jobs:
         with:
             app_port: "8080"
             start_command: "npx vue-cli-service serve --port 8080 --host 0.0.0.0"
-            config_file: "new_sitemap.json"
 
     full-accessibility-audit-axe:
         name: Full Accessibility Audit Axe
