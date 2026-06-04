@@ -10,6 +10,27 @@
         }
     },
     "urls": [
-        "http://localhost:8080"
+        "http://localhost:8080",
+        "http://localhost:8080/text-alternatives",
+        "http://localhost:8080/meaningful-sequence",
+        "http://localhost:8080/input-purpose",
+        "http://localhost:8080/audio-control",
+        "http://localhost:8080/color-contrast-minimum",
+        "http://localhost:8080/text-resize",
+        "http://localhost:8080/image-of-text",
+        "http://localhost:8080/color-contrast-enhanced",
+        "http://localhost:8080/text-spacing",
+        "http://localhost:8080/keyboard-trap",
+        "http://localhost:8080/shortcut",
+        "http://localhost:8080/link-purpose",
+        "http://localhost:8080/headings-labels",
+        "http://localhost:8080/label-in-name",
+        "http://localhost:8080/page-lang",
+        "http://localhost:8080/part-lang",
+        "http://localhost:8080/on-input",
+        "http://localhost:8080/consistent-identification",
+        "http://localhost:8080/error-identification",
+        "http://localhost:8080/labels-instructions",
+        "http://localhost:8080/name-role-value"
     ]
 }
